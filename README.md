@@ -6,12 +6,12 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,figma,flutter)](https://skillicons.dev)
 
 ### Technologies
 
 - Flutter
-- React
+- Python
 - Node.js
 - PHP
 - AWS
@@ -21,7 +21,7 @@
 
 ## Featured Projects
 
-### 📱 Flutter Weather App
+### 📱 JUST LOST&FOUND APP
 
 Real-time weather application built with Flutter and REST APIs.
 
